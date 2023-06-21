@@ -1,1 +1,1 @@
-# Simple-browser-using-Java-Maven-and-OpenJFX
+# Simple-browser-using-JavaFX
