@@ -1,1 +1,1 @@
-# Simple-browser-using-JavaFX
+# Simple-web-browser-using-JavaFX
